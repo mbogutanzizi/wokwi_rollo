@@ -1,0 +1,23 @@
+{
+  "name": "Rollo",
+  "author": "Simon Kainz, kj@bulme.at",
+  "pins": [
+    "VCC",
+    "GND",
+    "C0",
+    "C1",
+    "ESO",
+    "ESU",
+    "DIR",
+    "MOT"
+   
+
+  ],
+  "display": {
+    "width": 128,
+    "height": 128
+  },
+  "controls": [
+    
+  ]
+}
