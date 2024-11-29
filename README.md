@@ -9,3 +9,11 @@ You need the following packages:
 - lld-14
 - clang
 - libclang-rt-14-dev-wasm32
+
+Afterwards:
+
+```
+make
+```
+
+The files are in the `dist`folder.
